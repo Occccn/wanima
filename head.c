@@ -1,0 +1,145 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+void clear() {
+    system("clear");
+}
+
+void main() {
+    for (int i = 0; i < 5 ;i++) {
+        usleep(400000);
+        clear();
+printf("                  ,fVo)                                                                .\n");
+printf("  ...             .FG6O.    -\n");
+printf(",(Jp\1             bOVWh                               .                                                                                                                                               `\n");
+printf(" ?!<?`             1XNoW|      ......                                                                    .\n");
+printf("                    NdBdF.,?=?!```     `_!-.\n");
+printf("                    NNMM`              .~-. ?i.                                                                                                                                                        `\n");
+printf("    `_              MMMb               ^??{`(, 7,                                                                                                     \n");
+printf("       !   `        MkMN|                 _?<.?- ?+        ...__?7z?i.                          ,      ..                   .                    `,   \n");
+printf("                    JMMMN                          T...J7!` ..?!    .?n.              `      . `> <.,`-,!  .,.`.                     `                         `\n");
+printf("                 ..JY?7'M{                     ..-/7!     .-^      !. ,h             .>      `?nvzdx,.IH../iu-<-_                                     \n");
+printf("           ..JY9'`      j]                 ..J7!        .J3>         .:d     `       .S. .T'<,?ZYX9HRXvwMn?JcY-l.,.                                         `\n");
+printf("     ..-VM8!            ,]     ~_      ..(7`          (+01;         .',=     !.-..  ...d+.,+1ii+JZmWAVfXYiJ5..,?<Tv``..:                              \n");
+printf("..Q'8OGJ~zC_            ,]          ..?`        .  ..1+Wz>       ._i(=     .!??71S,>(,?7TQQ&?YOHWZzuUi+JY1x(dZUC-((Y7<-..                             \n");
+printf("zWZXZ4xuJ<~`            ,\       (/^            ..7!!   4      .-''        ~ .    7oJu&zzOjvwzSW4XMGe&XWBCCJSkJk&Gy9AS&.6_                                 `\n");
+printf("NQkHHXNf!               ._    .(^          ...ZY?`      .L..7=             ~j+~<(~-j...ZdGdX=whVwwHVUJGc7jdk8.(dHXHSGuQgHl.`                          \n");
+printf("MMdU(B^        ..gm+J...J`  .?`    ....JvT'^`          - (.                >_?o??UZXWkV8&wmd51.+dSWkzdGghyOXjmH9n?jkHmgHgW$~i.                        \n");
+printf("H#Vvf    .JT'''''''''YHMM$ .J..JymHHF       .dMMMNQmJ.d`.JM]           `    .l_zdk&.JXdkXHhAugWedVWT9WMHv9uHWd9zbJWXJVWNHSXdM^.                           `\n");
+printf("HHM?`           ...( .?` .MMBj86MWf]     (9""!`    (C` (i.]             `_<(+1z<..J(XWWkHHHM49OjdVVXUXgHH#6&8CvZ`` ??77TR?NX<                         \n");
+printf("XXN\         ?=!`,M' 9(JdMM5uKN_4R[.         .._!! ,c` .2X!    .       ...+?jz--<(JWdHmHkhx&YUdWkH#mdMf1?3vI$(^          4MW1l                          \n");
+printf("SWf         . (7CJN. (NHMM>1HHHG-?6         `..vWMM['   .W             . __(J+JJjgdkkakGdWHwHH8dYKOAd=J+?j>.`             4K:3                            \n");
+printf("kU`              ?T!  WUH/jJdMHmdl.         .  ..V'=,.   .l            ?-.(I(wagVTWO9XHUH0CiJmwAJZz^.=<(7`                 4,.                      \n");
+printf("Sc.               _   ,NGAWNMdHXC           .!     .!      <.            ?.,iJ&+1jdWQK5z4WMMMM9dd?+CR?`     .               2.                      \n");
+printf("@>                     Jw#XdXdHM[                 ~         ..             ?6i..-HWHHdGTdH6SHK(yj11^         ...            <`                      \n");
+printf("K!      `               Sj,WKOMW\                     .   ...>             (J/~CZKZOZTY-6<,THTV/((!       .JWWMMMMNg(.   .+HN                       \n");
+printf("6`       <              .vi>7Q'?             .        `jv'CQ,           (?</vWUzXfz1+J''<<7Tflj_`_               ?UMl  _M'=!]                       \n");
+printf("+- `                     J?( ~_.                        .dXHm-              v1J<dkzj\.7(Jj?1JS/`           .J7'Qg-.?\  d\...!                       \n");
+printf("__~              d...-zT''  i _?-.                   .AB>^ ..;             .v+((d6dd.\.v.[(zdd`            ....HM}.    X~MF!                        \n");
+printf("  `..            0vUM,. .MMMNb   _.                 .dY!.xqH8             .?C?99VHdJ,/It.]d&X_^           `     ^`3    .: ..                        \n");
+printf("             `  !  d,WHdMMMMMNh.          `            7! ...!              _1+XH@(dL((y<1,?U-..                        (..`                        \n");
+printf("                   .hBYhdMMNMYXN,     `                 .7HM8\          `...(+J+dJjHdb((V5Jn.[  -                        (,                          \n");
+printf("                 .#BHNmNNkWF   TJh,                        ,`      `..?!      .T1n+?ZsJ1....Jb                    .. .(.. z                          \n");
+printf("!          `   (""E  7HNMMM)     .7k,             `       .Wh.    ./  ..(gma+gagNMNedMqNNK~! q.                   ,7777?!7F    .`                    \n");
+printf("x.          ..++gH^     ?Wm'     _- ~HWa(.. `            .q@@j.  .^   /MMMMMMMMMMMMNMNNMN@    b                      ..(Ja{                           \n");
+printf("Zs            qH6.         ?i.     _  ?XXWSdWXO+(...(...QN#Ek\!`.!     ,MMMMMMMMMMMMMMMNdW    -[                 .(kY=<..,$                           \n");
+printf("Wv:-.         MRMc           (1,    `   ,TVTZHNMMMB''7WWW93/=  ,`  .    .WMMMM#MMMMMMMNMWH`    G.               J$-(777??T                            \n");
+printf("JH>UA.   `  .dMMNr-.  .        .4,   (.    ?z4HK, 4       `   ,'    .     TMNMMMNMMMMMMMNN      h                   ....-2                            \n");
+printf("MXH0HV.(.j(,KNMqd] (4a,_`.?_.     =,         `dHHh 1         ,!     ..     (HMM#MMMMMMMMMM       G,                 `7?TW!    .                       \n");
+printf("MMMqMGMgQHqMMdMgv`    .'z(<_-.      ?,       .Md<~l.[       .\       ..     .WkHNMMMMMMM#@_       ?,                   (c                      .`     \n");
+printf("MMMMMNMMNMMNdWkMWNm,      ?G.         ~.   ..JH+` ,>(       s     _   ..      7HgWMMMMMYDP         .4+.     .        . (\j,                           \n");
+printf("MMNMMMMMNMM@HJN$  ?4Jm,    i.!.        .,   .MR>  .).{     .\           ~.      7Qd@^  ,{\           ?dXa.,  `..(,...+q$,:,~.                         \n");
+printf("MMMMNMNMMMEkMY=  +g.dwMMNJ, 1(<<         4, .H0`   X (.    k       ~!    ~1.     .7kwi. .`             ??WNHkaa.a(JggMNgh(F.,~                        \n");
+        usleep(400000);
+        clear();
+printf("                                                                .\n");
+printf("  \n");
+printf("                             .                                                                                                                                               `\n");
+printf("                                                                .\n");
+printf("  \n");
+printf("                                                                                                                                              `\n");
+printf("                                 ..J(+QNNMMMNMNMMMMNMm,\n");
+printf("                 `,          .JNMMMMMMMMMMMMyHdNzTdHNRdNg,.\n");
+printf("     `                     ,TNMMMMMMMMWWYH8o(OhydgJHHMMMMMMMHa         `\n");
+printf("                          .dMMNM#BBUW?1&+HNHWMMNMMMMMMMMMMMMMNQ.\n");
+printf("                        .dMMMM6XAJmJ(xNgNMMMMNMMMMMMMMMMMMMMMMMN,      `\n");
+printf("                       ,MMMUUjWNKMHMgMMMMMMMMMMMMMMMMMMMMMMMMMMNN\n");
+printf("                      .dMW1WNMHWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM[\n");
+printf("                       #KkKHMMMd#MNdMdMMMMNMMNMMMMMMMMMMMMMMMMMMM@     `\n");
+printf("                      .MHMKdUM9J@Y#R?drT#dMXJNMMMMMMMMMMMMMMMMMMM#.\n");
+printf("                      .9WM@d.H>d@ z$ jt W0MK2MH+MMMMMMMMMMMMMMMM#N)\n");
+printf("                       .ydMUE H`(@ ,F ({ ,r(]~d?</SHMNNMMMMMMMMMMMM]    `\n");
+printf("                       fMH(= .  E .! .!..!   `  `?9MMMNMMMMMMMMMMN\ \n");
+printf("                        ?$ `    ..+NMNHMMm,       _WMMMMMMMMMMMMMN\ \n");
+printf("                        .MMNe  .MB!.....,._'       _dMMMMMMMMMMMMF     `\n");
+printf("                    `  ..../B, .Kr....,.,,D<d9VTTO1z+TMHMMMMMMMMN'\n");
+printf("                     y-.,zNtNWH#?\  TM5...FkOzI<?7?7TXgmgMMY` ,MF      `\n");
+printf("                     EdMM&v!d?Zdp: !   ..Y!          (WMMPj7>([.,\n");
+printf("                     ?2  h.d' ?` Y7'''7`             ?WMHK?h,-[ %\n");
+printf("                        .p<C     .           .`      (NMM+XP/,`.`      `\n");
+printf("                        .#(`  `  ,                   -NM#Zl?,~,!\n");
+printf("                         #?NKH&uZWn.                 ,MM#77`.7         `\n");
+printf("                         W(MB.`      '             .` ~(_=s=       .\n");
+printf("                         ,J'.`                    .~   r  X`\n");
+printf("                          jQdNmgx...                  ,`  #            `\n");
+printf("                           HX/??!!?`                 ('   @\n");
+printf("`                           7NNmHHD            .  .,T^    U            `\n");
+printf("                      .      .M`            .(.~.7^ .     J,\n");
+printf("                               5,        ..eggY^    `     ,b           `\n");
+printf("                                .'4WA&ggWMH87!     `      .dMH&\n");
+printf("                                      d@wZC!               ?dNXWma     `\n");
+printf("                                  ..&MMD(:                  dHXHHkH,\n");
+printf("               .`            ..dMMMMMMMb!                 .dWHNMHuzWe  `\n");
+printf("                         `.dHHWWWXUXWHM]        ~       .dWWHMMHHXzzVN,\n");
+printf("                         .BXXXWXuzzzXdM!      .-     .J8qHHWHXWWKHkzzzH[\n");
+printf("                       `.BzuXXUzXzzzXN$     .!   ..dSuqHWWUUzzzuXWWHkkzI\n");
+        usleep(400000);
+        clear();
+}
+    
+    // 最後に笑顔を表示
+    clear();
+printf("                     ,fVo)                                                                .\n");
+printf("     ...             .FG6O.    -\n");
+printf("   ,(Jp\1             bOVWh                               .                                                                                                                                             \n");
+printf("    ?!<?`             1XNoW|      ......                                                                  \n");
+printf("                       NdBdF.,?=?!```     `_!-.\n");
+printf("                       NNMM`              .~-. ?i.                                                                                                                                                      \n");
+printf("       `_              MMMb               ^??{`(, 7,                                                                                                                ..J(+QNNMMMNMNMMMMN\n");
+printf("          !   `        MkMN|                 _?<.?- ?+        ...__?7z?i.                          ,      ..                   .                    `,          .JNMMMMMMMMMMMMyHdNzTdHNRdN\n");
+printf("                       JMMMN                          T...J7!` ..?!    .?n.              `      . `> <.,`-,!  .,.`.                     `                     ,TNMMMMMMMMWWYH8o(OhydgJHHMMMMMM         `\n");
+printf("                    ..JY?7'M{                     ..-/7!     .-^      !. ,h             .>      `?nvzdx,.IH../iu-<-_                                         .dMMNM#BBUW?1&+HNHWMMNMMMMMMMMMMMMM\n");
+printf("              ..JY9'`      j]                 ..J7!        .J3>         .:d     `       .S. .T'<,?ZYX9HRXvwMn?JcY-l.,.                                     .dMMMM6XAJmJ(xNgNMMMMNMMMMMMMMMMMMMMMM      `\n");
+printf("        ..-VM8!            ,]     ~_      ..(7`          (+01;         .',=     !.-..  ...d+.,+1ii+JZmWAVfXYiJ5..,?<Tv``..:                               ,MMMUUjWNKMHMgMMMMMMMMMMMMMMMMMMMMMMMMM\n");
+printf("   ..Q'8OGJ~zC_            ,]          ..?`        .  ..1+Wz>       ._i(=     .!??71S,>(,?7TQQ&?YOHWZzuUi+JY1x(dZUC-((Y7<-..                             .dMW1WNMHWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\n");
+printf("   zWZXZ4xuJ<~`            ,\       (/^            ..7!!   4      .-''        ~ .    7oJu&zzOjvwzSW4XMGe&XWBCCJSkJk&Gy9AS&.6_                             #KkKHMMMd#MNdMdMMMMNMMNMMMMMMMMMMMMMMMMM     `\n");
+printf("   NQkHHXNf!               ._    .(^          ...ZY?`      .L..7=             ~j+~<(~-j...ZdGdX=whVwwHVUJGc7jdk8.(dHXHSGuQgHl.`                          .MHMKdUM9J@Y#R?drT#dMXJNMMMMMMMMMMMMMMMMMM\n");
+printf("   MMdU(B^        ..gm+J...J`  .?`    ....JvT'^`          - (.                >_?o??UZXWkV8&wmd51.+dSWkzdGghyOXjmH9n?jkHmgHgW$~i.                        .9WM@d.H>d@ z$ jt W0MK2MH+MMMMMMMMMMMMMMMM\n");
+printf("   H#Vvf    .JT'''''''''YHMM$ .J..JymHHF       .dMMMNQmJ.d`.JM]           `    .l_zdk&.JXdkXHhAugWedVWT9WMHv9uHWd9zbJWXJVWNHSXdM^.                        .ydMUE H`(@ ,F ({ ,r(]~d?</SHMNNMMMMMMMMMM    `\n");
+printf("   HHM?`           ...( .?` .MMBj86MWf]     (9""!`    (C` (i.]             `_<(+1z<..J(XWWkHHHM49OjdVVXUXgHH#6&8CvZ`` ??77TR?NX<                          fMH(= .  E .! .!..!   `  `?9MMMNMMMMMMMMM \n");
+printf("   XXN\         ?=!`,M' 9(JdMM5uKN_4R[.         .._!! ,c` .2X!    .       ...+?jz--<(JWdHmHkhx&YUdWkH#mdMf1?3vI$(^          4MW1l                          ?$ `    ..+NMNHMMm,       _WMMMMMMMMMMMM \n");
+printf("   SWf         . (7CJN. (NHMM>1HHHG-?6         `..vWMM['   .W             . __(J+JJjgdkkakGdWHwHH8dYKOAd=J+?j>.`             4K:3                          .MMNe  .MB!.....,._'       _dMMMMMMMMMM     `\n");
+printf("   kU`              ?T!  WUH/jJdMHmdl.         .  ..V'=,.   .l            ?-.(I(wagVTWO9XHUH0CiJmwAJZz^.=<(7`                 4,.                      `  ..../B, .Kr....,.,,D<d9VTTO1z+TMHMMMMMM'\n");
+printf("   Sc.               _   ,NGAWNMdHXC           .!     .!      <.            ?.,iJ&+1jdWQK5z4WMMMM9dd?+CR?`     .               2.                       y-.,zNtNWH#?\  TM5...FkOzI<?7?7TXgmgMMY`       `\n");
+printf("   @>                     Jw#XdXdHM[                 ~         ..             ?6i..-HWHHdGTdH6SHK(yj11^         ...            <`                       EdMM&v!d?Zdp: !   ..Y!          (WMMPj7>(\n");
+printf("   K!      `               Sj,WKOMW\                     .   ...>             (J/~CZKZOZTY-6<,THTV/((!       .JWWMMMMNg(.   .+HN                        ?2  h.d' ?` Y7'''7`             ?WMHK?h %\n");
+printf("   6`       <              .vi>7Q'?             .        `jv'CQ,           (?</vWUzXfz1+J''<<7Tflj_`_               ?UMl  _M'=!]                           .p<C     .           .`      (NMM+XP/,      `\n");
+printf("   +- `                     J?( ~_.                        .dXHm-              v1J<dkzj\.7(Jj?1JS/`           .J7'Qg-.?\  d\...!                           .#(`  `  ,                   -NM#Zl?,\n");
+printf("   __~              d...-zT''  i _?-.                   .AB>^ ..;             .v+((d6dd.\.v.[(zdd`            ....HM}.    X~MF!                             #?NKH&uZWn.                 ,MM#77         `\n");
+printf("     `..            0vUM,. .MMMNb   _.                 .dY!.xqH8             .?C?99VHdJ,/It.]d&X_^           `     ^`3    .: ..                             W(MB.`      '             .` ~(_       .\n");
+printf("                `  !  d,WHdMMMMMNh.          `            7! ...!              _1+XH@(dL((y<1,?U-..                        (..`                             ,J'.`                    .~   r \n");
+printf("                      .hBYhdMMNMYXN,     `                 .7HM8\          `...(+J+dJjHdb((V5Jn.[  -                        (,                               jQdNmgx...                  ,`            `\n");
+printf("                    .#BHNmNNkWF   TJh,                        ,`      `..?!      .T1n+?ZsJ1....Jb                    .. .(.. z                                HX/??!!?`                 (' \n");
+printf("   !          `   (""E  7HNMMM)     .7k,             `       .Wh.    ./  ..(gma+gagNMNedMqNNK~! q.                   ,7777?!7F    .`                           7NNmHHD            .  .,T^              `\n");
+printf("   x.          ..++gH^     ?Wm'     _- ~HWa(.. `            .q@@j.  .^   /MMMMMMMMMMMMNMNNMN@    b                      ..(Ja{                           .      .M`            .(.~.7^ .    \n");
+printf("   Zs            qH6.         ?i.     _  ?XXWSdWXO+(...(...QN#Ek\!`.!     ,MMMMMMMMMMMMMMMNdW    -[                 .(kY=<..,$                                    5,        ..eggY^    `               `\n");
+printf("   Wv:-.         MRMc           (1,    `   ,TVTZHNMMMB''7WWW93/=  ,`  .    .WMMMM#MMMMMMMNMWH`    G.               J$-(777??T                                      .'4WA&ggWMH87!     `      .d\n");
+printf("   JH>UA.   `  .dMMNr-.  .        .4,   (.    ?z4HK, 4       `   ,'    .     TMNMMMNMMMMMMMNN      h                   ....-2                                            d@wZC!               ?dNX     `\n");
+printf("   MXH0HV.(.j(,KNMqd] (4a,_`.?_.     =,         `dHHh 1         ,!     ..     (HMM#MMMMMMMMMM       G,                 `7?TW!    .                                   ..&MMD(:                  dHXHH\n");
+printf("   MMMqMGMgQHqMMdMgv`    .'z(<_-.      ?,       .Md<~l.[       .\       ..     .WkHNMMMMMMM#@_       ?,                   (c                      .`            ..dMMMMMMMb!                 .dWHNMHu  `\n");
+printf("   MMMMMNMMNMMNdWkMWNm,      ?G.         ~.   ..JH+` ,>(       s     _   ..      7HgWMMMMMYDP         .4+.     .        . (\j,                              `.dHHWWWXUXWHM]        ~       .dWWHMMHHXzz\n");
+printf("   MMNMMMMMNMM@HJN$  ?4Jm,    i.!.        .,   .MR>  .).{     .\           ~.      7Qd@^  ,{\           ?dXa.,  `..(,...+q$,:,~.                            .BXXXWXuzzzXdM!      .-     .J8qHHWHXWWKHkzz\n");
+printf("   MMMMNMNMMMEkMY=  +g.dwMMNJ, 1(<<         4, .H0`   X (.    k       ~!    ~1.     .7kwi. .`             ??WNHkaa.a(JggMNgh(F.,~                         `.BzuXXUzXzzzXN$     .!   ..dSuqHWWUUzzzuXWWHk\n");
+    exit(0);
+}

@@ -1,0 +1,12 @@
+version: '3'
+services:
+  notebook:
+    #containernameは付けた方が便利
+    container_name: notebook
+    build: .
+    #https://qiita.com/y518gaku/items/456f34c317a65a9dae86
+    volumes:
+      - ./data:/usr/data
+    #コンテナ落とさないため,他にいいやり方ある？？
+    tty: true
+
