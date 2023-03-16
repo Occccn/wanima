@@ -31,15 +31,16 @@
 #define WANIMA30 "                   .hBYhdMMNMYXN,     `                 .7HM8>          `...(+J+dJjHdb((V5Jn.[  -                        (,                          \n"
 #define WANIMA31 "                 .#BHNmNNkWF   TJh,                        ,`      `..?!      .T1n+?ZsJ1....Jb                    .. .(.. z                          \n"
 #define WANIMA32 "!          `   (""E  7HNMMM)     .7k,             `       .Wh.    ./  ..(gma+gagNMNedMqNNK~! q.                   ,7777?!7F    .`                    \n"
-#define WANIMA33 "x.          ..++gH^     ?Wm'     _- ~HWa(.. `            .q@@j.  .^   /MMMMMMMMMMMMNMNNMN@    b                      ..(Ja{                           \n"
-#define WANIMA34 "Zs            qH6.         ?i.     _  ?XXWSdWXO+(...(...QN#Ek>!`.!     ,MMMMMMMMMMMMMMMNdW    -[                 .(kY=<..,$                           \n"
-#define WANIMA35 "Wv:-.         MRMc           (1,    `   ,TVTZHNMMMB''7WWW93/=  ,`  .    .WMMMM#MMMMMMMNMWH`    G.               J$-(777??T                            \n"
-#define WANIMA36 "JH>UA.   `  .dMMNr-.  .        .4,   (.    ?z4HK, 4       `   ,'    .     TMNMMMNMMMMMMMNN      h                   ....-2                            \n"
-#define WANIMA37 "MXH0HV.(.j(,KNMqd] (4a,_`.?_.     =,         `dHHh 1         ,!     ..     (HMM#MMMMMMMMMM       G,                 `7?TW!    .                       \n"
+#define WANIMA33 "x.          ..++gH^     ?Wm'     _- ~HWa(.. `            .q@@j.  .^   /MMMMMMMMMMMMNMNNMN@    b                      ..(Ja{     ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣     \n"
+#define WANIMA34 "Zs            qH6.         ?i.     _  ?XXWSdWXO+(...(...QN#Ek>!`.!     ,MMMMMMMMMMMMMMMNdW    -[                 .(kY=<..,$    /  じゃあ な ん す か                   |    \n"
+#define WANIMA35 "Wv:-.         MRMc           (1,    `   ,TVTZHNMMMB''7WWW93/=  ,`  .    .WMMMM#MMMMMMMNMWH`    G.               J$-(777??T    /                                      |    \n"
+#define WANIMA36 "JH>UA.   `  .dMMNr-.  .        .4,   (.    ?z4HK, 4       `   ,'    .     TMNMMMNMMMMMMMNN      h                   ....-2   /   オタク君は無駄死にだったって 事 す か  |    \n"
+#define WANIMA37 "MXH0HV.(.j(,KNMqd] (4a,_`.?_.     =,         `dHHh 1         ,!     ..     (HMM#MMMMMMMMMM       G,                 `7?TW!    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣     \n"
 #define WANIMA38 "MMMqMGMgQHqMMdMgv`    .'z(<_-.      ?,       .Md<~l.[       .>       ..     .WkHNMMMMMMM#@_       ?,                   (c                      .`     \n"
 #define WANIMA39 "MMMMMNMMNMMNdWkMWNm,      ?G.         ~.   ..JH+` ,>(       s     _   ..      7HgWMMMMMYDP         .4+.     .        . (>j,                           \n"
 #define WANIMA40 "MMNMMMMMNMM@HJN$  ?4Jm,    i.!.        .,   .MR>  .).{     .>           ~.      7Qd@^  ,{>           ?dXa.,  `..(,...+q$,:,~.                         \n"
 #define WANIMA41 "MMMMNMNMMMEkMY=  +g.dwMMNJ, 1(<<         4, .H0`   X (.    k       ~!    ~1.     .7kwi. .`             ??WNHkaa.a(JggMNgh(F.,~                        \n"
+
 
 
 #define OTAKU1 "                                                                .\n"

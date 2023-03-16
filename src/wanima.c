@@ -8,7 +8,7 @@ void clear() {
 }
 
 void main() {
-    for (int i = 0; i < 5 ;i++) {
+    for (int i = 0; i < 4 ;i++) {
         usleep(400000);
         clear();
 printf(WANIMA1);printf(WANIMA2);printf(WANIMA3);printf(WANIMA4);printf(WANIMA5);
@@ -20,7 +20,7 @@ printf(WANIMA26);printf(WANIMA27);printf(WANIMA28);printf(WANIMA29);printf(WANIM
 printf(WANIMA31);printf(WANIMA32);printf(WANIMA33);printf(WANIMA34);printf(WANIMA35);
 printf(WANIMA36);printf(WANIMA37);printf(WANIMA38);printf(WANIMA39);printf(WANIMA40);
 printf(WANIMA41);
-        usleep(400000);
+        usleep(800000);
         clear();
 printf(OTAKU1);printf(OTAKU2);printf(OTAKU3);printf(OTAKU4);printf(OTAKU5);
 printf(OTAKU6);printf(OTAKU7);printf(OTAKU8);printf(OTAKU9);printf(OTAKU10);
